@@ -4,7 +4,7 @@
  FLO müşterilerini segmentlere ayırıp bu segmentlere göre pazarlama stratejileri belirlemek istiyor. Buna yönelik olarak müşterilerin davranışları tanımlanacak ve bu davranış öbeklenmelerine göre gruplar 
  oluşturulması.
  
-Veri Setinde Yer Alan Kolonlar;
+# Veri Setinde Yer Alan Kolonlar;
  master_id: Eşsiz müşteri numarası
  order_channel : Alışveriş yapılan platforma ait hangi kanalın kullanıldığı (Android, ios, Desktop, Mobile, Offline)
  last_order_channel : En son alışverişin yapıldığı kanal
